@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>12.jpg</filename>
-	<path>C:\Users\jdmal\Documents\NPS\Thesis\objectDetectDemo\object_detection_demo\data\images\12.jpg</path>
+	<filename>20.jpg</filename>
+	<path>C:\Users\jdmal\Documents\NPS\Thesis\objectDetectDemo\object_detection_demo\data\images\20.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>375</xmin>
+			<xmin>356</xmin>
 			<ymin>260</ymin>
-			<xmax>448</xmax>
-			<ymax>309</ymax>
+			<xmax>441</xmax>
+			<ymax>313</ymax>
 		</bndbox>
 	</object>
 </annotation>
