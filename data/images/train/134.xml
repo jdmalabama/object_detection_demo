@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>134.jpg</filename>
+	<path>C:\Users\jdmal\Documents\NPS\Thesis\objectDetectDemo\object_detection_demo\data\images\134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>251</ymin>
+			<xmax>595</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>
